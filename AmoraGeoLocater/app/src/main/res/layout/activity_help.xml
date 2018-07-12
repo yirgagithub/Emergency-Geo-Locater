@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.the.example.amorageolocater.database.HelpActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/helpMessage_title_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/helpMessage_title"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:background="@color/colorPrimary"
+        tools:layout_editor_absoluteX="114dp"
+        tools:layout_editor_absoluteY="30dp" />
+    <TextView
+        android:id="@+id/helpMessage_content_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:text="@string/helpMessage_content_string"
+        />
+    <TextView
+        android:id="@+id/contactUs_title_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/contact_title_string"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:background="@color/colorPrimary"
+         />
+    <TextView
+        android:id="@+id/contactUs_content_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="20sp"
+        android:text="@string/contact_content_string"
+        />
+</LinearLayout>

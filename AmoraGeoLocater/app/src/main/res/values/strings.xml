@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Amora Geo</string>
+    <string name="image_content_descrition">image content description</string>
+    <string name="view_one_string">View One</string>
+    <string name="view_two_string">View Two</string>
+    <string name="imageButton_description_string">Image description for image button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="listview_image_contentdescription">listView_image_contentDescription</string>
+    <string name="Title_location_title">Allow Location</string>
+    <string name="location_permission_message">Please allow permission for location we really need this functionality with out this 
+    the app cannot work</string>
+    <string name="location_positive_button">Ok</string>
+    <string name="navDrawer_headerTitle_String">Amora App</string>
+    <string name="editData_drawerlist_string">Edit Data</string>
+    <string name="changeLanguage_drawerlist_string">Change Language</string>
+    <string name="help_drawerlist_string">Help</string>
+    <string name="tigrigna_drawerlist_string">Tigrigna</string>
+    <string name="amharic_drawerlist_string">Amharic</string>
+    <string name="english_drawerlist_string">English</string>
+    <string name="phone_number_string">Edit Phone Number</string>
+    <string name="phoneNumber_title_string">Enter Your Phone Number</string>
+    <string name="ok_dialogButton_string">OK</string>
+    <string name="cancel_dialogButton_string">Cancel</string>
+    <string name="editText_hint_string">Phone Number</string>
+    <string name="error_message_string">"Please Enter a valide phone Number"</string>
+    <string name="helpMessage_title">How to use the app</string>
+    <string name="police_title">Police</string>
+    <string name="traffic_title">Traffic</string>
+    <string name="health_title">Health-Care</string>
+    <string-array name="police_list">
+        <item>Robbery</item>
+        <item>Terror Attack</item>
+        <item>Fire Accident</item>
+        <item>Corruption</item>
+        <item>Abduction</item>
+        <item>Harassment</item>
+        <item>Child Trafficking</item>
+        <item>Scamming</item>
+        <item>Fight</item>
+        <item>Police rule6</item>
+    </string-array>
+
+    <string-array name="health_title">
+        <item>Abduction</item>
+        <item>Child birth</item>
+        <item>First aid</item>
+        <item>Emergency </item>
+        <item>Deadly Emergency</item>
+        <item>Health-help1</item>
+        <item>Health-help2</item>
+        <item>Health-help3</item>
+        <item>Health-help4</item>
+        <item>Health-help5</item>
+    </string-array>
+    <string-array name="traffic_title">
+        <item>Car Accident</item>
+        <item>Traffic overload</item>
+        <item>Traffic rule break</item>
+        <item>Traffic rule3</item>
+        <item>Traffic rule4</item>
+        <item>Traffic rule5</item>
+        <item>Traffic rule6</item>
+        <item>Traffic rule7</item>
+        <item>Traffic rule8</item>
+        <item>Traffic rule9</item>
+    </string-array>
+
+    <string name="helpMessage_content_string">Use this and this Use this and this
+        Use this and this Use this and this Use this and this Use this and this
+        Use this and this Use this and this Use this and this  Use this and this
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+        bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla
+    </string>
+    <string name="contact_title_string">Contact-Us</string>
+    <string name="contact_content_string">If you need further help Please Contact
+     bla bla bla bla bla bla bla bla bla bla bla bla bla bla</string>
+    <string name="locationProvider_message_string">Please turn on location access in setting</string>
+    <string name="locationDialog_title_string">Provider Access Denied</string>
+    <string name="editData_string">Edit Data</string>
+    <string name="phone_number_title">Phone</string>
+    <string name="url_title">URl</string>
+    <string name="latitude_title">Latitude</string>
+    <string name="longitude_title">Longitude</string>
+    <string name="rational_location_permission">allow location permission</string>
+</resources>

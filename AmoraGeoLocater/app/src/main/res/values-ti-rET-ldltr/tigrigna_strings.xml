@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">አሞራ አፕ</string>
+    <string name="image_content_descrition">image content description</string>
+    <string name="view_one_string">ፖሊስ ሓደጋ</string>
+    <string name="view_two_string">ትራፊክ ሓደጋ</string>
+    <string name="view_three_string">ሕክምና ሓደጋ</string>
+    <string name="imageButton_description_string">Image description for image button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="listview_image_contentdescription">listView_image_contentDescription</string>
+    <string name="Title_location_title">ቦታ ንክፈልጥ ይፍቀዱ？</string>
+    <string name="location_permission_message"> እዚ አብሊኬሽን ንክሰርሕ ናይ ቦታ መፍለጢ ፍቃድ የድልዮ እዩ። በይዝኦም ናይ ቦታ መፍለጢ ፍቃድ ይወልዑ！ </string>
+    <string name="location_positive_button">እሺ</string>
+    <string name="navDrawer_headerTitle_String">አሞራ አፕ</string>
+    <string name="editData_drawerlist_string">ዳታ መማዓረይ</string>
+    <string name="changeLanguage_drawerlist_string">ቋንቋ መቀየሪ</string>
+    <string name="help_drawerlist_string">እገዛ</string>
+    <string name="tigrigna_drawerlist_string">ትግርኛ</string>
+    <string name="amharic_drawerlist_string">አማርኛ</string>
+    <string name="english_drawerlist_string">English</string>
+    <string name="phone_number_string">ሰልክ ቁጥር መቀየሪ</string>
+    <string name="phoneNumber_title_string">ሰልክ ቁጥር መእተዊ</string>
+    <string name="ok_dialogButton_string">እሺ</string>
+    <string name="editText_hint_string">ሰልኪ ቁፅሪ</string>
+    <string name="cancel_dialogButton_string">አጥፍእ</string>
+
+
+
+    <string-array name="police_list">
+        <item>ስርቂ</item>
+        <item>ናይ ሽብር ጥቅዓት</item>
+        <item>የሓዊ ሓደጋ</item>
+        <item>ሙስና</item>
+        <item>ናይ ፖሊስ ሕጊ1</item>
+        <item>ናይ ፖሊስ ሕጊ2</item>
+        <item>ናይ ፖሊስ ሕጊ3</item>
+        <item>ናይ ፖሊስ ሕጊ4</item>
+        <item>ናይ ፖሊስ ሕጊ5</item>
+        <item>ናይ ፖሊስ ሕጊ6</item>
+    </string-array>
+
+    <string-array name="health_title">
+        <item>ናይ መኪና ሓደጋ</item>
+        <item>ናይ ሕክምና ሓደጋ</item>
+        <item>ናይ ሕክምና ሓደጋ</item>
+        <item>ጥቃዓት</item>
+        <item>ዝጠፈኧ ሰብ</item>
+        <item>ናይ ሕክምና ሓደጋ1</item>
+        <item>ናይ ሕክምና ሓደጋ2</item>
+        <item>ናይ ሕክምና ሓደጋ3</item>
+        <item>ናይ ሕክምና ሓደጋ4</item>
+        <item>ናይ ሕክምና ሓደጋ5</item>
+    </string-array>
+    <string-array name="traffic_title">
+        <item>ናይ መኪና ሓደጋ</item>
+        <item>ናይ ትራፊክ መጨንናቅ</item>
+        <item>ናይ ትራፊክ ሕጊ ጥሕሰት</item>
+        <item>ናይ ትራፊክ ሕጊ3</item>
+        <item>ናይ ትራፊክ ሕጊ4</item>
+        <item>ናይ ትራፊክ ሕጊ5</item>
+        <item>ናይ ትራፊክ ሕጊ6</item>
+        <item>ናይ ትራፊክ ሕጊ7</item>
+        <item>ናይ ትራፊክ ሕጊ8</item>
+        <item>ናይ ትራፊክ ሕጊ9</item>
+    </string-array>
+</resources>

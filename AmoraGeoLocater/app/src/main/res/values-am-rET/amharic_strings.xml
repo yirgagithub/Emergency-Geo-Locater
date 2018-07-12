@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">አሞራ አፕ</string>
+    <string name="image_content_descrition">image content description</string>
+    <string name="view_one_string">የፖሊስ አደጋ</string>
+    <string name="view_two_string">የትራፈክ አደጋ</string>
+    <string name="view_three_string">የህክምና አደጋ</string>
+    <string name="imageButton_description_string">Image description for image button</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="listview_image_contentdescription">listView_image_contentDescription</string>
+    <string name="Title_location_title">ቦታ እንድያቅ ይፍቀዱ？</string>
+    <string name="location_permission_message">ይህ አፕሊኬሽን እንዲሰራ የ ቦታ ማሳወቅያ ፍቃድ ይፈልጋል። እባክዎ የ ቦታ ማሳወቅያ ፍቃድ ያብሩ！</string>
+    <string name="location_positive_button">እሺ</string>
+    <string name="navDrawer_headerTitle_String">አሞራ አፕ</string>
+    <string name="editData_drawerlist_string">ዳታ ማስተካከያ</string>
+    <string name="changeLanguage_drawerlist_string">ቋንቋ ቀይር</string>
+    <string name="help_drawerlist_string">እገዛ</string>
+    <string name="tigrigna_drawerlist_string">ትግርኛ</string>
+    <string name="amharic_drawerlist_string">አማርኛ</string>
+    <string name="english_drawerlist_string">English</string>
+    <string name="phone_number_string">ሰልክ ቁጥር ቀይር</string>
+    <string name="phoneNumber_title_string">ሰልክ ቁጥር አስገባ</string>
+    <string name="ok_dialogButton_string">እሺ</string>
+    <string name="editText_hint_string">ሰልክ ቁጥር</string>
+    <string name="cancel_dialogButton_string">አጥፋ</string>
+
+    <string-array name="police_list">
+        <item>ስርቅ</item>
+        <item>የሽብር ጥቃት</item>
+        <item>የእሳት አደጋ</item>
+        <item>ሙስና</item>
+        <item>የፖሊስ ህግ1</item>
+        <item>የፖሊስ ህግ2</item>
+        <item>የፖሊስ ህግ3</item>
+        <item>የፖሊስ ህግ4</item>
+        <item>የፖሊስ ህግ5</item>
+        <item>የፖሊስ ህግ6</item>
+    </string-array>
+
+    <string-array name="health_title">
+        <item>የመኪና አድጋ</item>
+        <item>የህክምና አደጋ</item>
+        <item>የህክምና አደጋ</item>
+        <item>ጥቃት</item>
+        <item>የጠፋ ሰው</item>
+        <item>የህክምና አደጋ1</item>
+        <item>የህክምና አደጋ2</item>
+        <item>የህክምና አደጋ3</item>
+        <item>የህክምና አደጋ4</item>
+        <item>የህክምና አደጋ5</item>
+    </string-array>
+    <string-array name="traffic_title">
+        <item>የመኪና አድጋ</item>
+        <item>የትራፊክ መጨናነቅ</item>
+        <item>የትራፊክ ህግ ጥሰት</item>
+        <item>የትራፊክ ህግ3</item>
+        <item>የትራፊክ ህግ4</item>
+        <item>የትራፊክ ህግ5</item>
+        <item>የትራፊክ ህግ6</item>
+        <item>የትራፊክ ህግ7</item>
+        <item>የትራፊክ ህግ8</item>
+        <item>የትራፊክ ህግ9</item>
+    </string-array>
+</resources>

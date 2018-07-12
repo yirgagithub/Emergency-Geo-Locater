@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/editData_drawerlist_id"
+            android:title="@string/editData_drawerlist_string"
+
+            />
+        <item android:id="@+id/phoneNumber_drawerlist_id"
+              android:title="@string/phone_number_string"/>
+        <item
+            android:id="@+id/changeLanguage_drawerlist_id"
+            android:title="@string/changeLanguage_drawerlist_string">
+            <menu>
+                <group>
+                    <item
+                        android:id="@+id/tigrigna_drawerlist_id"
+                        android:title="@string/tigrigna_drawerlist_string"
+                        />
+                    <item
+                        android:id="@+id/amharic_drawerlist_id"
+                        android:title="@string/amharic_drawerlist_string"
+                        />
+                    <item
+                        android:id="@+id/english_drawerlist_id"
+                        android:title="@string/english_drawerlist_string"
+                        />
+
+                </group>
+            </menu>
+
+            </item>
+
+
+        <item   android:id="@+id/help_drawerlist_id"
+            android:title="@string/help_drawerlist_string"/>
+
+
+
+    </group>
+
+</menu>

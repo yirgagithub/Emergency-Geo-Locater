@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textAlignment="center"
+    android:layout_gravity="center"
+    android:textSize="20sp"
+    android:textColor="@color/colorPrimary"
+    android:text="@string/phoneNumber_title_string"
+    />
+    <EditText
+        android:id="@+id/phoneNumber_EditText_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:layout_gravity="center"
+        android:hint="@string/editText_hint_string"
+        android:textAlignment="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/error_message"
+        >
+    </TextView>
+
+</LinearLayout>
